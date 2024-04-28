@@ -1,2 +1,2 @@
 # test_repo
-commit from another account in master branch
+commit from another account into branch2
