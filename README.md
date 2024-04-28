@@ -1,2 +1,2 @@
 # test_repo
-First commit in master branch
+A commit in branch1 branch
